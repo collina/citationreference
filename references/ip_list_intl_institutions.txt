@@ -1,0 +1,11 @@
+157.150.0.0/16	UN - United Nations
+152.152.0.0/20	NATO-AS North Atlantic Treaty Organization
+146.247.8.0/21	United Nations International Computing Centre 
+192.91.247.0/24	UNICC International Computing Centre 
+193.5.91.0/24	World Intellectual Property Organization 
+193.5.92.0/24	World Intellectual Property Organization 
+193.5.93.0/24	World Intellectual Property Organization 
+193.5.94.0/24	World Intellectual Property Organization 
+193.5.95.0/24	World Intellectual Property Organization 
+193.194.138.0/24	United Nations International Computing Center 
+193.194.139.0/24	United Nations International Computing Center  

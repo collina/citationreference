@@ -1,0 +1,52 @@
+85.132.40.0/24	DELTA Satellite Network 
+94.20.19.0/24   DELTA Broadband Network 
+188.72.128.0/24	NET-MHM 
+188.72.129.0/24	NET-MHM 
+188.72.130.0/24	NET-MHM 
+188.72.131.0/24	NET-MHM 
+188.72.132.0/24	NET-MHM 
+188.72.133.0/24	NET-MHM
+188.72.134.0/24	NET-MHM 
+188.72.135.0/24	NET-MHM 
+188.72.136.0/24	NET-MHM 
+188.72.137.0/24	NET-MHM 
+188.72.138.0/24	NET-MHM 
+188.72.139.0/24	NET-MHM 
+188.72.140.0/24	NET-MHM 
+188.72.143.0/24	NET-MHM 
+188.72.144.0/24	NET-MHM 
+188.72.145.0/24	NET-MHM 
+188.72.147.0/24	NET-MHM 
+188.72.148.0/24	NET-MHM 
+188.72.149.0/24	NET-MHM 
+188.72.151.0/24	NET-MHM 
+188.72.152.0/24	NET-MHM 
+188.72.153.0/24	NET-MHM 
+188.72.154.0/24	NET-MHM 
+188.72.155.0/24	NET-MHM 
+188.72.156.0/24	NET-MHM 
+188.72.157.0/24	NET-MHM 
+188.72.158.0/24	NET-MHM 
+188.72.159.0/24	NET-MHM 
+188.72.170.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.171.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.172.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.173.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.174.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.175.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.176.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.177.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.178.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.179.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.180.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.181.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.182.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.183.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.184.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.185.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.186.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.187.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.188.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.189.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.190.0/24	ICC of Ministry of ICT of Azerbaijan 
+188.72.191.0/24	ICC of Ministry of ICT of Azerbaijan  
