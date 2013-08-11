@@ -1,2 +1,143 @@
 137.94.0.0/16	RMC - Royal Military College of Canada
-
+132.156.0.0/16	Natural Resources Canada 
+142.78.0.0/16	Library and Archives Canada 
+142.130.0.0/16	Dept. of Fisheries and Oceans 
+142.191.8.0/21	Correctional Services Canada 
+142.206.0.0/16	Statistics Canada 
+142.236.0.0/17	Employement and Immigration Canada 
+167.32.0.0/17	Shared Services Canada 
+167.55.240.0/24	Shared Services Canada 
+167.227.0.0/24	Employment and Immigration Canada (EIC) 
+167.227.32.0/21	Employment and Immigration Canada (EIC) 
+167.227.48.0/24	Employment and Immigration Canada (EIC) 
+192.67.45.0/24	Natural Resources Canada 
+192.75.17.0/24	Natural Resources Canada 
+192.75.68.0/24	Canada Centre for Inland Waters 
+192.75.99.0/24	Natural Resources Canada 
+192.139.6.0/24	Natural Resources Canada 
+192.139.7.0/24	Natural Resources Canada 
+192.139.141.0/24	Fisheries & Oceans, Canada 
+192.139.194.0/24	Natural Resources Canada 
+192.139.195.0/24	Energy, Mines, and Resources Canada 
+192.197.71.0/24	Agriculture and Agrifood Canada 
+192.197.72.0/24	Office of the Auditor General of Canada 
+192.197.76.0/24	Shared Services Canada 
+192.197.77.0/24	Public Service Commission of Canada 
+192.197.79.0/24	Shared Services Canada 
+192.197.82.0/24	Canadian House of Commons 
+192.197.83.0/24	Shared Services Canada 
+192.197.114.0/24	Natural Resources Canada 
+192.197.115.0/24	Natural Resources Canada 
+192.197.178.0/24	Industry Canada 
+192.197.180.0/24	Industry Canada 
+192.197.181.0/24	Industry Canada 
+192.197.183.0/24	Industry Canada 
+192.197.184.0/24	Industry Canada 
+192.197.243.0/24	Department of Fisheries and Oceans 
+198.73.135.0/24	Canada Centre for Inland Waters 
+198.73.136.0/24	Canada Centre for Inland Waters 
+198.96.2.0/24	Natural Sciences & Engineering Reasearch Council 
+198.96.3.0/24	NSERC 
+198.96.62.0/24	Canadian Hydrographic Service 
+198.103.0.0/16	Shared Services Canada 
+198.103.15.0/24	GTIS 
+198.103.18.0/24	Shared Services Canada 
+198.103.22.0/24	Shared Services Canada 
+198.103.31.0/24	Shared Services Canada 
+198.103.32.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.39.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.41.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.45.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.49.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.53.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.55.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.57.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.61.0/24	Finance Canada and Treasury Board Secretariat 
+198.103.92.0/22	Shared Services Canada 
+198.103.97.0/24	Shared Services Canada 
+198.103.103.0/24	GTIS 
+198.103.108.0/24	Solicitor General Canada 
+198.103.109.0/24	Correctional Services 
+198.103.134.0/24	Department of Veterans Affairs 
+198.103.138.0/24	Canadian International Development Agency 
+198.103.142.0/24	Canadian International Trade Tribunal 
+198.103.143.0/24	GTIS 
+198.103.145.0/24	Federal Court of Canada 
+198.103.146.0/24	National Transportation Agency 
+198.103.152.0/24	GTIS 
+198.103.153.0/24	GTIS 
+198.103.161.0/24	Department of Fisheries and Oceans 
+198.103.162.0/24	GTIS 
+198.103.169.0/24	GTIS 
+198.103.173.0/24	GTIS 
+198.103.174.0/24	Shared Services Canada 
+198.103.176.0/24	GTIS 
+198.103.177.0/24	GTIS 
+198.103.180.0/24	GTIS 
+198.103.183.0/24	Shared Services Canada 
+198.103.187.0/24	Shared Services Canada 
+198.103.193.0/24	GTIS 
+198.103.194.0/24	GTIS 
+198.103.206.0/24	Shared Services Canada 
+198.103.213.0/24	GTIS 
+198.103.215.0/24	Shared Services Canada 
+198.103.218.0/24	Shared Services Canada 
+198.103.234.0/24	Shared Services Canada 
+198.103.235.0/24	Shared Services Canada 
+198.103.236.0/24	GTIS 
+198.103.247.0/24	Shared Services Canada 
+198.103.248.0/24	Shared Services Canada 
+198.103.249.0/24	Shared Services Canada 
+198.164.3.0/24	University of New Brunswick 
+198.164.7.0/24	University of New Brunswick 
+199.212.16.0/24	Environment Canada 
+199.212.17.0/24	Environment Canada 
+199.212.18.0/24	Environment Canada 
+199.212.19.0/24	Environment Canada 
+199.212.20.0/24	Environment Canada 
+199.212.21.0/24	Environment Canada 
+199.212.150.0/24	Royal Canadian Mounted Police 
+199.212.200.0/24	Department of Justice 
+199.212.215.0/24	Department of Justice 
+199.212.216.0/24	Department of Justice 
+199.246.230.0/24	Canadian Radio-television and Telecommunications 
+199.246.231.0/24	Canadian Radio-television and Telecommunications 
+199.246.232.0/24	Canadian Radio-television and Telecommunications 
+199.246.233.0/24	Canadian Radio-television and Telecommunications 
+199.246.234.0/24	Canadian Radio-television and Telecommunications 
+199.246.235.0/24	Canadian Radio-television and Telecommunications 
+199.246.236.0/24	Canadian Radio-television and Telecommunications 
+199.246.237.0/24	Canadian Radio-television and Telecommunications 
+199.246.238.0/24	Canadian Radio-television and Telecommunications 
+199.246.239.0/24	Canadian Radio-television and Telecommunications 
+199.246.240.0/24	IBM Canada Ltd 
+199.246.241.0/24	Canadian Radio-television and Telecommunications 
+199.246.242.0/24	Canadian Radio-television and Telecommunications 
+199.246.243.0/24	Canadian Radio-television and Telecommunications 
+199.246.244.0/24	Canadian Radio-television and Telecommunications 
+199.246.245.0/24	Canadian Radio-television and Telecommunications 
+199.246.246.0/24	Canadian Radio-television and Telecommunications 
+199.246.247.0/24	Canadian Radio-television and Telecommunications 
+199.246.248.0/24	Canadian Radio-television and Telecommunications 
+199.246.249.0/24	Canadian Radio-television and Telecommunications 
+199.246.250.0/24	Canadian Radio-television and Telecommunications 
+199.246.251.0/24	Canadian Radio-television and Telecommunications 
+199.246.252.0/24	Canadian Radio-television and Telecommunications 
+199.246.253.0/24	Canadian Radio-television and Telecommunications 
+204.187.48.0/24	Canadian Hydrographic Service 
+205.189.5.0/24	Canada Centre for Inland Waters 
+205.189.6.0/24	Canada Centre for Inland Waters 
+205.189.7.0/24	Canada Centre for Inland Waters 
+205.189.8.0/24	Environment Canada 
+205.189.9.0/24	Environment Canada 
+205.189.10.0/24	Environment Canada 
+205.193.0.0/16	Shared Services Canada 
+205.193.6.0/24	Shared Services Canada 
+205.193.35.0/24	Shared Services Canada 
+205.193.37.0/24	Shared Services Canada 
+205.194.0.0/17	Shared Services Canada 
+205.194.23.0/24	Shared Services Canada 
+205.211.132.0/24	Environment Canada 
+205.211.133.0/24	Environment Canada
+205.211.134.0/24	Environment Canada
+128.43.0.0/16   XDRENET-AS - Defence Research Establishment

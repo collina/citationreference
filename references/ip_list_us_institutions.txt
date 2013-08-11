@@ -69,6 +69,19 @@
 136.149.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
 136.178.0.0/16	PSCNI-AS - National Aeronautics and Space Administration
 137.0.0.0/13 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+7.0.0.0/8   DoD Network Information Center
+6.0.0.0/8   Headquarters, USAISC
+11.0.0.0/8	DoD Intel Information Systems
+21.0.0.0/8	DDN-RVN	
+22.0.0.0/8	Defense Information Systems Agency	
+26.0.0.0/8	Defense Information Systems Agency
+28.0.0.0/8	DSI-North
+29.0.0.0/8	Defense Information Systems Agency
+30.0.0.0/8	Defense Information Systems Agency
+33.0.0.0/8	DLA Systems Automation Center
+34.0.0.0/8	Halliburton Company
+214.0.0.0/8	US-DOD
+215.0.0.0/8	US-DOD	
 137.1.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
 137.11.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
 137.128.0.0/16	DNIC-AS-00668 - DoD Network Information Center
@@ -460,6 +473,9 @@
 205.85.32.0/23	Navy Network Information Center (NNIC) 
 205.85.39.0/24	Navy Network Information Center (NNIC) 
 205.85.40.0/24	Navy Network Information Center (NNIC) 
+205.32.0.0/12   DoD Network Information Center
+205.0.0.0/11    DoD Network Information Center
+205.48.0.0/13   DoD Network Information Center
 205.85.41.0/24	Navy Network Information Center (NNIC) 
 205.85.44.0/24	Navy Network Information Center (NNIC) 
 205.85.48.0/22	Navy Network Information Center (NNIC) 
@@ -539,3 +555,486 @@
 152.75.0.0/17	Voice of America   
 152.75.128.0/17	Voice of America   
 152.75.128.0/21	Voice of America   
+38.100.22.0/24	RFERL Radio Free Europe 
+91.102.96.0/21	RFE/RL, Inc., organizacni slozka 
+94.198.112.0/21	RFE/RL, Inc., organizacni slozka 
+193.111.128.0/21	RFE/RL, Inc., organizacni slozka
+129.99.0.0/16	NASA-AERONET-AS - National Aeronautics and Space Administration
+128.157.0.0/16	JSC-JIN-AS - National Aeronautics and Space Administration
+130.40.0.0/16	JSC-JIN-AS - National Aeronautics and Space Administration
+146.154.0.0/16	JSC-JIN-AS - National Aeronautics and Space Administration
+128.155.0.0/16	NASA-LARC-AS - National Aeronautics and Space Administration
+146.165.0.0/16	NASA-LARC-AS - National Aeronautics and Space Administration
+128.149.0.0/16	JPL-AS127 - Jet Propulsion Laboratory
+128.47.0.0/20	DNIC-AS-00013 - Headquarters, USAISC
+128.63.0.0/16	DNIC-AS-00013 - Headquarters, USAISC
+134.194.0.0/16	DNIC-AS-00013 - Headquarters, USAISC
+128.156.0.0/16	LERC-AS-AS - National Aeronautics and Space Administration
+129.52.0.0/16	WPAFB-CSD-NET-AS - 754th Electronic Systems Group
+134.131.0.0/16	WPAFB-CSD-NET-AS - 754th Electronic Systems Group
+134.136.0.0/16	WPAFB-CSD-NET-AS - 754th Electronic Systems Group
+137.245.0.0/16	WPAFB-CSD-NET-AS - 754th Electronic Systems Group
+131.84.0.0/16	DNIC-AS-00140 - DoD Network Information Center
+132.159.0.0/17	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+140.187.0.0/16	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+147.239.0.0/16	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+155.149.0.0/16	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+158.14.0.0/16	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+158.5.0.0/16 	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+129.29.0.0/16	DNIC-ASBLK-01451-01456 - Headquarters, USAISC
+158.1.0.0/18 	DNIC-AS-01457 - Headquarters, USAISC
+144.147.0.0/16	DNIC-ASBLK-01458-01460 - Headquarters, USAISC
+143.79.0.0/16	DNIC-ASBLK-01462-01463 - Headquarters, USAISC
+138.27.0.0/16	DNIC-ASBLK-01464-01465 - Headquarters, USAISC
+140.202.0.0/16	DNIC-ASBLK-01464-01465 - Headquarters, USAISC
+130.114.0.0/17	DNIC-ASBLK-01467-01468 - Headquarters, USAISC
+147.169.0.0/16	DNIC-ASBLK-01474-01477 - Headquarters, USAISC
+144.99.0.0/16	DNIC-ASBLK-01474-01477 - Headquarters, USAISC
+158.20.0.0/16	DNIC-AS-01482 - Headquarters, USAISC
+143.71.0.0/16	DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+143.72.0.0/16	DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+150.113.0.0/16	DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+150.114.0.0/16	DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+143.78.0.0/16	DNIC-ASBLK-01488-01489 - Headquarters, USAISC
+155.8.0.0/16 	DNIC-AS-01491 - Headquarters, USAISC
+147.238.0.0/16	DNIC-ASBLK-01494-01495 - Headquarters, USAISC
+155.218.0.0/16	DNIC-ASBLK-01494-01495 - Headquarters, USAISC
+155.217.0.0/16	DNIC-ASBLK-01500-01502 - Headquarters, USAISC
+160.138.0.0/16	DNIC-ASBLK-01500-01502 - Headquarters, USAISC
+128.190.0.0/16	DNIC-AS-01503 - Headquarters, USAISC
+147.103.0.0/16	DNIC-AS-01503 - Headquarters, USAISC
+160.145.0.0/16	DNIC-AS-01503 - Headquarters, USAISC
+155.214.0.0/17	DNIC-AS-01504 - Headquarters, USAISC
+158.16.0.0/17	DNIC-AS-01504 - Headquarters, USAISC
+158.4.0.0/17 	DNIC-AS-01504 - Headquarters, USAISC
+147.198.0.0/16	DNIC-AS-01505 - Headquarters, USAISC
+155.215.0.0/16	DNIC-AS-01505 - Headquarters, USAISC
+155.9.0.0/16 	WOOD-AS - Headquarters, USAISC
+158.7.0.0/16 	WOOD-AS - Headquarters, USAISC
+155.216.0.0/16	DNIC-ASBLK-01509-01510 - Headquarters, USAISC
+155.219.0.0/16	DNIC-ASBLK-01509-01510 - Headquarters, USAISC
+160.150.0.0/16	DNIC-ASBLK-01513-01518 - Headquarters, USAISC
+158.17.0.0/16	DNIC-ASBLK-01522-01526 - Headquarters, USAISC
+140.139.0.0/16	DNIC-AS-01527 - Headquarters, USAISC
+158.6.0.0/16 	DNIC-ASBLK-01534-01546 - Headquarters, USAISC
+134.233.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+136.209.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+147.36.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+140.201.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+138.50.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+134.232.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+140.154.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+147.35.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+144.170.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+147.40.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+136.215.0.0/18	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+155.155.0.0/19	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+134.234.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+147.248.0.0/20	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+132.193.0.0/16	DNIC-ASBLK-01550-01601 - DoD Network Information Center
+143.46.0.0/22	DNIC-AS-01637 - Headquarters, USAISC
+155.5.0.0/16 	DNIC-AS-01637 - Headquarters, USAISC
+155.6.0.0/16 	DNIC-AS-01637 - Headquarters, USAISC
+143.45.0.0/22	DNIC-AS-01649 - Headquarters, USAISC
+150.133.0.0/16	DNIC-AS-01649 - Headquarters, USAISC
+129.165.0.0/16	EOSDIS-V0 - National Aeronautics and Space Administration
+150.144.0.0/16	EOSDIS-V0 - National Aeronautics and Space Administration
+204.34.200.0/24	DISACENT-NIPR-ASN - DoD Network Information Center
+128.183.0.0/16	NASA-GSFC-AS - National Aeronautics and Space Administration
+128.159.0.0/16	NASA-KSC-AS - National Aeronautics and Space Administration
+128.217.0.0/16	NASA-KSC-AS - National Aeronautics and Space Administration
+163.205.0.0/16	NASA-KSC-AS - National Aeronautics and Space Administration
+163.206.0.0/16	NASA-KSC-AS - National Aeronautics and Space Administration
+131.92.0.0/17	DNIC-AS-00213 - Headquarters, USAISC
+128.49.0.0/16	DNIC-AS-00022 - Navy Network Information Center (NNIC)
+137.241.0.0/16	OOALC-HOSTNET-AS - 754th Electronic Systems Group
+137.3.0.0/16 	ASIFICS-GW-AS - 754th Electronic Systems Group
+140.175.0.0/16	ASIFICS-GW-AS - 754th Electronic Systems Group
+153.31.0.0/17	FBICJIS - FBI Criminal Justice Information Systems
+136.178.0.0/16	PSCNI-AS - National Aeronautics and Space Administration
+131.74.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+137.209.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+138.143.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+138.148.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+138.149.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+138.169.8.0/21	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+138.169.8.0/21	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+147.240.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+150.190.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.153.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.157.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.167.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.198.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.203.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.233.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.240.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+204.34.251.0/24	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+140.35.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+137.246.0.0/16	DNIC-ASBLK-27032-27159 - DoD Network Information Center
+128.154.0.0/17	NISN-SIP-AS - National Aeronautics and Space Administration
+129.164.0.0/16	NISN-SIP-AS - National Aeronautics and Space Administration
+131.182.0.0/16	NISN-SIP-AS - National Aeronautics and Space Administration
+148.114.0.0/16	NISN-SIP-AS - National Aeronautics and Space Administration
+132.104.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.105.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.109.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.110.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.114.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.117.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.118.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.122.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.133.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.134.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.79.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.80.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.82.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.86.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.87.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.94.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+132.95.0.0/16	DNIC-ASBLK-00306-00371 - DoD Network Information Center
+128.38.0.0/16	DNIC-AS-00037 - Navy Network Information Center (NNIC)
+131.46.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.6.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.18.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.24.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.54.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.243.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+129.53.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.27.0.0/18	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.4.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.61.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.10.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.28.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.37.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.52.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.9.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.1.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.240.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.10.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.22.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.32.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.44.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.46.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+136.149.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.242.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+128.202.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+128.236.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.40.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.11.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+204.34.211.0/24	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+129.51.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+129.54.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.24.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.25.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.22.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.40.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.60.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+137.244.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.38.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.3.0.0/22 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+130.165.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+140.194.0.0/17	DNIC-AS-04010 - Headquarters, USAISC
+155.74.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.75.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.76.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.77.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.78.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.79.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.80.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.81.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.82.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.83.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.84.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.85.0.0/19	DNIC-AS-04010 - Headquarters, USAISC
+155.86.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.87.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.88.0.0/16	DNIC-AS-04010 - Headquarters, USAISC
+155.178.0.0/16	FAA - Federal Aviation Administration
+128.216.0.0/20	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.36.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.47.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.15.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.20.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+128.102.0.0/16	AMES - National Aeronautics and Space Administration
+134.12.0.0/17	AMES - National Aeronautics and Space Administration
+143.232.0.0/16	AMES - National Aeronautics and Space Administration
+132.16.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.61.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.17.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.59.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.34.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.35.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.38.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.48.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.5.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.62.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.3.0.0/16 	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.56.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.58.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.19.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.30.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.54.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.25.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.42.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.27.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+128.60.0.0/16	DNIC-AS-00048 - Navy Network Information Center (NNIC)
+132.250.0.0/16	DNIC-AS-00048 - Navy Network Information Center (NNIC)
+131.30.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.35.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.37.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.39.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.33.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.49.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.56.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+129.198.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.50.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+131.52.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+132.58.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+138.13.0.0/16	AFCONC-BLOCK1-AS - 754th Electronic Systems Group
+134.207.0.0/16	NRL-EXP - Navy Network Information Center (NNIC)
+158.18.0.0/16	DNIC-ASBLK-05120-05376 - DoD Network Information Center
+158.8.0.0/16 	DNIC-ASBLK-05120-05376 - DoD Network Information Center
+134.78.0.0/16	DNIC-AS-00523 - Headquarters, USAISC
+158.2.0.0/16 	DNIC-AS-00523 - Headquarters, USAISC
+152.229.0.0/16	DNIC-ASBLK-05120-05376 - DoD Network Information Center
+137.95.0.0/16	DNIC-AS-00552 - DoD Network Information Center
+150.196.0.0/24	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+160.146.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+128.160.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+144.146.0.0/22	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+155.220.0.0/22	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+204.34.16.0/24	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+164.221.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+164.45.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+204.34.199.0/24	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+143.81.0.0/24	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+153.23.0.0/20	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+153.26.0.0/21	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+134.11.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+134.205.0.0/16	DNIC-ASBLK-05800-06055 - DoD Network Information Center
+138.167.0.0/20	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.183.0.0/17	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.141.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.156.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.157.0.0/21	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.162.0.0/24	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.163.0.0/24	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.164.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+138.168.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+158.243.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+158.244.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+158.245.0.0/16	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+204.34.190.0/24	DNIC-ASBLK-00616-00665 - DoD Network Information Center
+128.37.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+129.229.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+129.92.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+130.109.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+131.120.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+131.121.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+131.122.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+132.45.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+134.164.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+134.240.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+137.128.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+137.24.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+140.178.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+140.31.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+140.32.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+150.125.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+158.12.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+164.227.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+164.49.0.0/16	DNIC-AS-00668 - DoD Network Information Center
+131.32.0.0/11	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+131.64.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+132.0.0.0/10 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.210.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.212.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.212.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.212.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.216.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.216.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.216.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.216.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.220.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+136.220.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+137.0.0.0/13 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+137.212.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+137.0.0.0/13 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+137.0.0.0/13 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.150.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.150.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.144.0.0/12	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.164.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.164.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.168.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.168.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.168.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.178.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.178.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.180.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.180.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+138.180.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+140.152.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+140.21.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+143.69.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+143.73.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+143.74.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+143.85.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+144.109.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+153.24.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+153.24.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+153.24.0.0/14	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+153.29.0.0/17	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+155.7.0.0/16 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+158.8.0.0/14 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+158.8.0.0/14 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+158.14.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+158.0.0.0/13 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+158.8.0.0/14 	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+160.132.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+160.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+160.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+160.136.0.0/13	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+164.230.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+164.230.0.0/15	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+199.121.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.186.0/24	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+204.34.0.0/16	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+55.0.0.0/8   	DNIC-ASBLK-00721-00726 - DoD Network Information Center
+143.77.0.0/16	DNIC-AS-00747 - Headquarters, USAISC
+147.242.0.0/24	DNIC-AS-00747 - Headquarters, USAISC
+160.135.0.0/16	DNIC-AS-00747 - Headquarters, USAISC
+128.158.0.0/16	NSN-RICE-AS - National Aeronautics and Space Administration
+138.115.0.0/16	NSN-RICE-AS - National Aeronautics and Space Administration
+129.139.0.0/16	DNIC-AS-00083 - Headquarters, USAISC
+129.190.0.0/16	DNIC-AS-00089 - Navy Network Information Center (NNIC)
+164.223.0.0/16	DNIC-AS-00089 - Navy Network Information Center (NNIC)
+207.27.29.0/24	Foreign Broadcast Information Services
+207.27.28.0/24	Foreign Broadcast Information Services

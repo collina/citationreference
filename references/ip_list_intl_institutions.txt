@@ -9,3 +9,11 @@
 193.5.95.0/24	World Intellectual Property Organization 
 193.194.138.0/24	United Nations International Computing Center 
 193.194.139.0/24	United Nations International Computing Center  
+46.255.216.0/21	United Nations High Commissioner for Refugees 
+46.255.216.0/24	UNHCR IRAN
+46.255.216.0/24	UNHCR IRAN 
+46.255.217.0/24	UNHCR Infrasructure
+152.152.0.0/20	NATO Headquarters 
+152.152.16.0/20	NATO Headquarters
+91.223.21.0/24	NATO C3 Agency 
+192.41.140.0/24	NATO Communications and Information Agency

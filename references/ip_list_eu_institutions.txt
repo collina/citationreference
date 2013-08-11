@@ -1,0 +1,2 @@
+194.55.26.0/24  Deutsche Welle Anstalt des Oeffentlichen Rechts
+194.55.30.0/24  Deutsche Welle Radio und TV International

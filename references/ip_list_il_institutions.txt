@@ -9,3 +9,4 @@
 147.237.77.0/24 Israeli Government Network 
 147.237.80.0/24 Israeli Government Network 
 147.237.248.0/24    Israeli Government Network
+93.57.77.88/29  Israeli Embassy to Italy

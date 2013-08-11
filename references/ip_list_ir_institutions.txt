@@ -48,10 +48,6 @@
 217.25.63.0/24	IRNA
 31.24.232.0/21	Tehran Municipality ICT Organization 
 46.209.126.0/24	Securities & Exchange Organization
-46.255.216.0/21	United Nations High Commissioner for Refugees 
-46.255.216.0/24	UNHCR IRAN
-46.255.216.0/24	UNHCR IRAN 
-46.255.217.0/24	UNHCR Infrasructure
 46.38.157.0/24	Securities & Exchange Organization
 62.220.112.0/23	Center for Strategic Research of Iran
 62.60.128.0/18	Iranian Research Organization for Science & Technology
@@ -60,7 +56,8 @@
 77.36.128.0/17	IRIB (Islamic Republic of Iran Broadcasting)
 77.36.144.0/21	IRIB (Islamic Republic of Iran Broadcasting)
 77.36.152.0/22	IRIB     
-77.36.158.0/24	IRIB     
+77.36.158.0/24	IRIB
+62.220.121.0/24	IRIB Wide Area Network
 78.38.193.0/24	Atomic Energy Organization of Iran
 78.39.179.0/24	iranair
 79.175.135.0/24	Agriculture-Jahad Ministry 
@@ -98,3 +95,12 @@
 91.222.199.0/24	Computer research center of islamic seminary of Isfahan
 91.224.110.0/23	Imam Khomeini Relief Foundation IKRF 
 93.190.24.0/23	Press TV Co.
+212.16.82.0/24  Ministry of Commerce
+87.107.45.0/24  Ministry of Education
+188.75.83.0/24  Cited as Vezarat Kar Route
+217.218.67.0/24 Press TV English
+212.80.24.0/24	Judiciary Of iran
+217.172.96.0/22	Ministry Of Foreign Affairs of Iran
+217.172.112.0/22	Ministry Of Foreign Affairs of Iran
+84.47.248.0/22	MFA Network 
+84.47.252.0/22	MFA Network
