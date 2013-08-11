@@ -555,6 +555,10 @@
 152.75.0.0/17	Voice of America   
 152.75.128.0/17	Voice of America   
 152.75.128.0/21	Voice of America   
+152.75.90.0/24	Voice of America
+152.75.89.0/24	Voice of America
+152.75.88.0/24	Voice of America
+152.75.243.0/24	Voice of America
 38.100.22.0/24	RFERL Radio Free Europe 
 91.102.96.0/21	RFE/RL, Inc., organizacni slozka 
 94.198.112.0/21	RFE/RL, Inc., organizacni slozka 
@@ -1038,3 +1042,9 @@
 164.223.0.0/16	DNIC-AS-00089 - Navy Network Information Center (NNIC)
 207.27.29.0/24	Foreign Broadcast Information Services
 207.27.28.0/24	Foreign Broadcast Information Services
+66.9.158.0/24	Council on Foreign Relations
+66.9.150.0/24	Council on Foreign Relations
+207.206.212.0/24	Foreign Language Resource Center
+128.229.0.0/16	Advanced Decision Systems 
+156.80.0.0/16	Booz Allen Hamilton Inc.
+209.211.172.0/24	BOOZ ALLEN HAMILTON
