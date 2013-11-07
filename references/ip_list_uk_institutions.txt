@@ -1,6 +1,0 @@
-132.185.224.0/20	British Broadcasting Corporation   
-132.185.0.0/16	British Broadcasting Corporation   
-132.185.128.0/20	British Broadcasting Corporation   
-212.58.224.0/19	BBC     
-25.0.0.0/8	UK Ministry of Defence
-51.0.0.0/8	UK Government Department for Work and Pensions
