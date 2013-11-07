@@ -1,7 +1,0 @@
-91.198.251.0/24 Saudi Arabia Ministry of Foreign Affairs
-91.222.200.0/24 Ministry Of Communication & information Technology
-91.222.201.0/24 Ministry Of Communication & information Technology
-1.222.202.0/24  Ministry Of Communication & information Technology
-91.222.203.0/24 Ministry Of Communication & information Technology
-193.105.89.0/24 Ministry Of Communication & information Technology 
-193.47.102.0/24 Ministry of Interior
